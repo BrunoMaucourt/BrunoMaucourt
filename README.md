@@ -1,6 +1,8 @@
 # Hi there, I'm [Bruno MAUCOURT](https://brunomaucourt.com/) 👋
 
-![banner][https://raw.githubusercontent.com/BrunoMaucourt/BrunoMaucourt/main/Tete_linkedin.png]
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gi](https://raw.githubusercontent.com/BrunoMaucourt/BrunoMaucourt/main/Tete_linkedin.png)" width="100"/>
+</div>
 
 ## Profesionnal
 
