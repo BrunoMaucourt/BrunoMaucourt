@@ -1,0 +1,289 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Bruno Maucourt",
+    "label": "Développeur fullstack web / mobile - junior",
+    "image": "https://brunomaucourt.com/Image/Bruno.svg",
+    "email": "contact@brunomaucourt.com",
+    "phone": "",
+    "url": "https://brunomaucourt.com/",
+    "summary": "Dans le cadre de ma reconversion professionnelle, je suis actuellement à la recherche d'un stage de développeur web / mobile full-stack. Au cours de mes précédents emploi et de ma reconversion, j’ai pu développer les compétences suivantes :\n\nCompétences et connaissances en programmation\n- Front-end (HTML/CSS, Bootstrap et Javascript)\n- Back-end (PHP et MySQL)\n- Mobile (Android)\n- Autre (Python, Java, LaTeX et R)\n\nCompétences et connaissances transversales\n- gestion de projets\n- veille bibliographique technique et scientifique\n- communications (aussi bien au niveau scientifique que vulgarisation)\n- travail d'équipe et encadrement de stagiaires\n- rédaction de rapports\n- anglais scientifique et technique\n\nMobile et disponible, je peux mettre rapidement mes compétences et mon expérience au service de votre entreprise.",
+    "location": {
+      "address": "Paris",
+      "countryCode": "FR"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "maucourt",
+        "url": "https://www.linkedin.com/in/maucourt/"
+      }
+      {
+        "network": "GitHub",
+        "username": "BrunoMaucourt",
+        "url": "https://github.com/BrunoMaucourt"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Académie de Strasbourg",
+      "position": "Enseignant en biotechnologie (contractuel)",
+      "startDate": "2020-11-30",
+      "endDate": "2022-04-30",
+      "highlights": [],
+      "summary": "Lycée Alexandre Dumas, Strasbourg – 2nd bac professionnel et 1er année de CAP\n        - Prévention Santé Environnement\n        - Sciences Appliquées\n    Lycée Jean Rostand, Strasbourg – 1er et 2nd année de BTS Bioqualité\n        - TP de microbiologie\n    Collège Europe, Obernai – 4ème et 3ème SEGPA\n        - Hygiène, Alimentation et Service\n    Lycée Jean-Baptiste Schwilgué, Sélestat – 3ème prépa-métier, 1er et 2nd année CAP Préparation et Réalisation d’Ouvrages Électriques, 2nd, 1er, Tale bac professionnel\n       - Prévention Santé Environnement\n       - Sciences et technologie",
+      "url": "https://www.linkedin.com/company/academie-de-strasbourg/",
+      "location": "Strasbourg et périphérie, France"
+    },
+    {
+      "name": "Université de Strasbourg",
+      "position": "Chercheur en microbiologie (contrat doctoral)",
+      "startDate": "2015-10-31",
+      "endDate": "2019-01-31",
+      "highlights": [],
+      "summary": "Sujet de thèse : Régulation in labo et in situ de l’expression de génomes de souches bactériennes méthylotrophes dégradant le dichlorométhane\n\nSupervisé par : Françoise Bringel\n\nRéalisations durant la thèse :\n\n- Expériences de biologie moléculaire.\n- Mise en place de nouvelles méthodes expérimentales.\n- Traitement et interprétation des résultats expérimentaux et analyse statistiques.\n- Gestion et archivage des échantillons et résultats.\n- Encadrement de stagiaires (deux étudiantes de niveaux BTS) et d’une technicienne de la laboratoire.\n- Présentations des résultats de l’équipe lors de congrès scientifiques et de conférences.\n- Diffusion des travaux de l’équipe via l’écriture de 4 publications scientifiques dans des journaux à comités de relecture.\n-Encadrement de TP/TD (en première année de licence).",
+      "url": "https://www.linkedin.com/school/universit%C3%A9-de-strasbourg/",
+      "location": "Strasbourg, France"
+    },
+    {
+      "name": "Université de Strasbourg",
+      "position": "Stagiaire en laboratoire de recherche",
+      "startDate": "2015-01-31",
+      "endDate": "2015-06-30",
+      "highlights": [],
+      "summary": "Rôle du régulateur DcmR dans l’expression des gènes d’utilisation du dichlorométhane chez Methylobacterium extorquens DM4. 20 semaines.\n\n- Étude de l’expression génétique\n- Suivi de croissance bactérienne et études de mutants\n- Gestion et archivage des échantillons et résultats\n- Rédaction d’un rapport de stage et présentation des résultats expérimentaux",
+      "url": "https://www.linkedin.com/school/universit%C3%A9-de-strasbourg/",
+      "location": "Strasbourg, France"
+    },
+    {
+      "name": "Université de Strasbourg",
+      "position": "Stagiaire en laboratoire de recherche",
+      "startDate": "2014-06-30",
+      "endDate": "2014-07-31",
+      "highlights": [],
+      "summary": "Effet de sidérophores bactériens sur l’altération de minéraux, rôle dans la mobilité des métaux\n\n- Suivi de croissance bactérienne et fusion transcriptionnelle.",
+      "url": "https://www.linkedin.com/school/universit%C3%A9-de-strasbourg/",
+      "location": "Strasbourg, France"
+    },
+    {
+      "name": "Université de Strasbourg",
+      "position": "Stagiaire en laboratoire de recherche",
+      "startDate": "2013-05-31",
+      "endDate": "2013-07-31",
+      "highlights": [],
+      "summary": "Développement de bioindicateurs bactériens basés sur l’ADN pour la dépollution\n\n- Mise en place d’expériences de biologie moléculaire (TRFLP).\n- Analyse des résultats expérimentaux avec les logiciels TREX et R.\n- Gestion et archivage des échantillons et résultats.\n- Rédaction d’un rapport de stage et présentation des résultats expérimentaux.",
+      "url": "https://www.linkedin.com/school/universit%C3%A9-de-strasbourg/",
+      "location": "Strasbourg, France"
+    },
+    {
+      "name": "Universidade Nova de Lisboa",
+      "position": "Stagiaire en laboratoire de recherche",
+      "startDate": "2012-04-30",
+      "endDate": "2012-06-30",
+      "highlights": [],
+      "summary": "Mise en place d’une méthode de détection de produits dopants par spectrométrie de masse\n\n- Préparation d’échantillons (derivatization, purification et extraction SPE à partir de l’urine).\n- Traitement des données (spectres de masses) et incorporation dans une base de données.",
+      "url": "https://www.linkedin.com/school/universidade-nova-de-lisboa/",
+      "location": "Lisbonne, Portugal"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Ecole Doctorale des Sciences de la Vie et de la Santé - Strasbourg",
+      "position": "Représentant des doctorants",
+      "startDate": "2016-03-31",
+      "endDate": "2019-01-31",
+      "summary": "- Participation au conseil plénier et pédagogique de l'ED414\n- Observateur lors du concours d'attribution des bourses de l'ED414 \n- Représentant des doctorants lors de conflits avec des directeurs de thèses.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/school/ecole-doctorale-vie-et-sante-strasbourg/"
+    },
+    {
+      "organization": "Pint of Science",
+      "position": "Membre de l’équipe d’organisation (Planète Terre) à Strasbourg",
+      "startDate": "2017-09-30",
+      "endDate": "2018-05-31",
+      "summary": "- Organisation et animation de trois soirées de vulgarisation scientifique.\n- Réalisation d’une présentation de 15 minutes, sur les interactions entre les plantes et les bactéries, pour introduire le sujet de recherche d’une intervenante.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/pintofscience/"
+    },
+    {
+      "organization": "ADDAL PhD Association",
+      "position": "Membre de la commission poursuite de carrière",
+      "startDate": "2015-12-31",
+      "endDate": "2017-03-31",
+      "summary": "- Membre du bureau de l'association\n- Organisation de visites d'entreprises\n- Organisation de rencontres entre docteurs, travaillant hors du milieu académique, et de doctorants.",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/addal/"
+    },
+    {
+      "organization": "Symbiose (association du master BMO)",
+      "position": "Chargé de documentation",
+      "startDate": "2013-10-31",
+      "endDate": "2014-09-30",
+      "summary": "- Membre du bureau de l'organisation\n- Mise en place d'une archive avec les diaporamas de cours et examens \n- Création d'un nouveau logo pour l'association",
+      "highlights": [],
+      "url": ""
+    }
+  ],
+  "education": [
+    {
+      "institution": "Coding Factory",
+      "area": "Informatique",
+      "studyType": "Développeur Informatique (Reconversion)",
+      "startDate": "2022-10-31",
+      "endDate": "2023-09-30",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université de Strasbourg",
+      "area": "Microbiologie",
+      "studyType": "Doctorat",
+      "startDate": "2015-10-31",
+      "endDate": "2019-01-31",
+      "score": "Félicitations du jury",
+      "courses": []
+    },
+    {
+      "institution": "Université de Strasbourg",
+      "area": "Microbiologie",
+      "studyType": "Master",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "Mention bien",
+      "courses": []
+    },
+    {
+      "institution": "Université de Strasbourg",
+      "area": "Biologie Cellulaire et Physiologie",
+      "studyType": "Licence",
+      "startDate": "2012-12-31",
+      "endDate": "2013-12-31",
+      "score": "Mention bien",
+      "courses": []
+    },
+    {
+      "institution": "Université de Lorraine",
+      "area": "Génie Biologique (option Gènie de l'Environnement)",
+      "studyType": "DUT",
+      "startDate": "2010-12-31",
+      "endDate": "2012-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée George de la Tour",
+      "area": "Biochimie et génie biologique",
+      "studyType": "Baccalauréat STL",
+      "startDate": "2007-12-31",
+      "endDate": "2010-12-31",
+      "score": "Mention bien",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Prix du meilleur poster",
+      "date": "2018-03-31",
+      "awarder": "Séminaire de Microbiologie de Strasbourg",
+      "summary": "Bacterial growth with the pollutant dichloromethane: How does the transcriptional factor DcmR operate?"
+    },
+    {
+      "title": "Prix de la meilleur présentation orale",
+      "date": "2016-03-31",
+      "awarder": "Séminaire de Microbiologie de Strasbourg",
+      "summary": "Transcriptionnal and translational regulation of the dcm islet involved in bacterial degradation of dichloromethane, a major pollutant "
+    }
+  ],
+  "certificates": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": ["HTML/CSS", "Bootstrap", "Javascript"]
+    },
+    {
+      "name": "Back-end",
+      "level": "",
+      "keywords": ["PHP", "MySQL"]
+    },
+    {
+      "name": "Mobile",
+      "level": "",
+      "keywords": ["Android"]
+    },
+    {
+      "name": "Autres langages",
+      "level": "",
+      "keywords": ["Java", "Python", "R", "LaTeX"]
+    },
+    {
+      "name": "Biologie",
+      "level": "Senior",
+      "keywords": ["Biologie moléculaire", "Microbiologie", "Biotechnologie", "Biochimie", "Biologie cellulaire", "Statistiques", "Enseignement"]
+    },
+    {
+      "name": "Transversales",
+      "level": "",
+      "keywords": ["Gestion de projets","Management",]
+    },
+    {
+      "name":"Bureautique"
+      "level": "",
+      "keywords": ["Microsoft Office","Libre Office"]
+    },
+    {
+      "name": "Graphisme",
+      "level": "",
+      "keywords": ["Inkscape", "Blender", "Conception de logo", "Dessin vectoriel"]
+    },
+  ],
+  "languages": [
+    {
+      "fluency": "Lu, écrit, parlé et anglais technique",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "Langue native",
+      "language": "Français"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Impression 3D"
+    },
+    {
+      "name": "Photographie et design"
+    },
+    {
+      "name": "Jeux de société"
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "Sous le microscope",
+      "startDate": "2019-10-31",
+      "summary": "Blog de vulgarisation scientifique sur le thème de la microbiologie.\n- Création d'un site internet (Wordpress)\n- Vulgarisation d'articles scientifques\n- Création d'illustrations pour le blog",
+      "url": "https://souslemicroscope.com/"
+    },
+    {
+      "name": "Help(frog)",
+      "startDate": "2022-11-07",
+      "summary": "Help frog est un jeu de bataille navale réalisé en Python (pygame).",
+      "url": "https://github.com/BrunoMaucourt/Help-frog"
+    },
+    {
+      "name": "Estimation de l’empreinte carbone du 25e congrès scientifique de la Fédération National des Orthophonistes à Metz",
+      "startDate": "2011-09-30",
+      "summary": "Estimation de l’empreinte carbone du 25e congrès scientifique de la Fédération National des Orthophonistes à Metz,\nValentin Albert, Amandine Goldau, Bruno Maucourt, Loys Mesnier, Alexandra Valcke\nL’Orthophoniste, no 325, p. 19-26, janvier 2013",
+      "url": null,
+      "endDate": "2011-09-30"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}

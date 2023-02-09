@@ -1,7 +1,7 @@
 # Hi there, I'm [Bruno MAUCOURT](https://brunomaucourt.com/) 👋
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/BrunoMaucourt/BrunoMaucourt/main/Tete_linkedin.png"/>
+  <img src="https://raw.githubusercontent.com/BrunoMaucourt/BrunoMaucourt/main/banner.png"/>
 </div>
 
 ## Profesionnal
@@ -12,6 +12,7 @@
 ## Hobbies and Interests
 
 - :microscope: I do popularization of science on my blog [Sous le microscope](https://souslemicroscope.com/) :test_tube: :dna:
+- :pencil2: I do vector illustration [link](https://brunomaucourt.com/Illustrations.php)
 
 ## Connect with me
 
