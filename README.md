@@ -11,8 +11,8 @@
 
 ## Hobbies and Interests
 
-- :microscope: I do popularization of science on my blog [Sous le microscope](https://souslemicroscope.com/) :test_tube: :dna:
-- :pencil2: I do vector illustration [link](https://brunomaucourt.com/Illustrations.php)
+- :microscope: I do popularization of science on my blog: [Sous le microscope](https://souslemicroscope.com/) :test_tube: :dna:
+- :pencil2: I do vector illustrations ([link](https://brunomaucourt.com/Illustrations.php))
 
 ## Connect with me
 
