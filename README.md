@@ -6,8 +6,8 @@
 
 ## Profesionnal
 
-- :computer: currently in training at Coding-Factory to become full-stack developer.
-- :briefcase: I'm open to work.
+- :computer: Currently in training at Coding-Factory to become full-stack developer
+- :briefcase: I'm open to work
 
 ## Hobbies and Interests
 
