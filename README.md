@@ -6,7 +6,7 @@
 
 ## Profesionnal
 
-- :computer: Currently in training at Coding-Factory to become full-stack developer
+- :computer: Currently in training at Coding-Factory to become a full-stack developer
 - :briefcase: I'm open to work
 
 ## Hobbies and Interests
@@ -17,7 +17,7 @@
 ## Connect with me
 
 - [Portfolio](https://brunomaucourt.com/)
-- [LinkedIn](https://www.linkedin.com/in/maucourt/)
+- [LinkedIn](https://www.linkedin.com/in/bruno-maucourt-developpeur-fullstack/)
 
 <!--
 **BrunoMaucourt/BrunoMaucourt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
